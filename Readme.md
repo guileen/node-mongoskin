@@ -1,3 +1,7 @@
+# This project has move to kissjs.org
+
+Please goto the new project page [here](https://github.com/kissjs/node-mongoskin)
+
 ## This project is a wrapper of node-mongodb-native
 
 * node-mongodb-native document http://christkv.github.com/node-mongodb-native/
